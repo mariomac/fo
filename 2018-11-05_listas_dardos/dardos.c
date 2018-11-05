@@ -1,7 +1,11 @@
 #include <stdio.h>
+
 #define MAX_N 100
 #define MAX_J 30
 #define N_TIRADAS 5
+
+// Ejercicio de dardos tal y como hicimos en clase. Para ver el que podría ser una
+// aplicación real, echad un ojo al archivo "dardos_final.c"
 
 typedef struct {
   char nombre[MAX_N];
@@ -38,8 +42,7 @@ main() {
   }
   
   pos = 0;
-  while (j.total < clas.jugadores[pos].total
-          && pos < clas.num_j) {
+  while (j.total < clas.jugadores[pos].total && pos < clas.num_j) {
     pos++;
   }
 
