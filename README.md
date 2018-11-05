@@ -2,7 +2,9 @@
 Ejemplos de clase de Fonaments d'Ordinadors
 
 ## 5 Noviembre 2018
-* Añadido ejemplo de listas: [dardos.c](./2018-11-05_listas_dardos)
+* Añadido ejemplo de listas: [dardos.c](./2018-11-05_listas_dardos/dardos.c)
+* **Actualización**: [dardos_final.c](./2018-11-05_listas_dardos/dardos_final.c)
+  contiene lo que sería un programa completo, que permite también eliminar jugadores.
 
 ## 29 Octubre 2018
 * Añadidos ejemplos de [vectores](./2018-10-29_vectores):
