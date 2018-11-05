@@ -19,6 +19,8 @@ typedef struct {
 } t_clasificacion;
 
 main() {
+  // Definición de una lista con algunos elementos ya insertados
+  // La lista ya está ordenada según puntuación
   t_clasificacion clas = {
     4, // num_j
     {  // jugadores
@@ -31,6 +33,7 @@ main() {
 
   t_jugador j;
   int i, nj, pos;
+  
   // Leer jugador por teclado
   printf("Nombre? ");
   scanf("%[^\n]%*c", j.nombre);
@@ -41,6 +44,8 @@ main() {
     j.total += j.tiradas[i];
   }
   
+  // Buscar en qué posición debe insertarse el nuevo jugador
+  // para que la lista siga ordenada según puntuación total
   pos = 0;
   while (j.total < clas.jugadores[pos].total && pos < clas.num_j) {
     pos++;
@@ -66,10 +71,3 @@ main() {
     printf(") Total: %d\n", j.total);
   }
 }
-
-
-
-
-
-
-
