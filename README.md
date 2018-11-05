@@ -1,7 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
-## 29 Octubre 2019
+## 5 Noviembre 2018
+* Añadido ejemplo de listas: [dardos.c](./2018-11-05_listas_dardos)
+
+## 29 Octubre 2018
 * Añadidos ejemplos de [vectores](./2018-10-29_vectores):
     - `suma.c`: suma de todos los elementos de un vector
     - `comparacion.c`: compara si dos vectores son iguales (versión poco elegante, pero quizás
