@@ -1,6 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 7 Noviembre 2018
+
+* Añadido ejemplo de matrices: [matrices.c](./2018-11-07_matrices/matrices.c)
+
 ## 5 Noviembre 2018
 * Añadido ejemplo de listas: [dardos.c](./2018-11-05_listas_dardos/dardos.c)
 * **Actualización**: [dardos_final.c](./2018-11-05_listas_dardos/dardos_final.c)
