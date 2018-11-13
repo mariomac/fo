@@ -1,6 +1,9 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 12 Noviembre 2018
+* Ejemplo de funciones: [max.c](./2018-11-12_funciones/max.c)
+
 ## 7 Noviembre 2018
 
 * Añadido ejemplo de matrices: [matrices.c](./2018-11-07_matrices/matrices.c)
