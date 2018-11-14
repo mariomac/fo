@@ -1,6 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 14 Noviembre 2018
+
+* [pokemon.c](./2018-11-14_pokemon/pokemon.c) (con ejemplo de uso de matrices, funciones, y hasta Emojis 🤯🤯🤯:troll:)
+
 ## 12 Noviembre 2018
 * Ejemplo de funciones: [max.c](./2018-11-12_funciones/max.c)
 
