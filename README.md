@@ -1,6 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 19 Noviembre 2018
+
+* [exp.c](./2018-11-19_exponencial/exp.c) cálculo de función exponencial mediante funciones
+
 ## 14 Noviembre 2018
 
 * [pokemon.c](./2018-11-14_pokemon/pokemon.c) (con ejemplo de uso de matrices, funciones, y hasta Emojis 🤯🤯🤯)
