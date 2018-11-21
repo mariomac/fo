@@ -1,6 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 21 Noviembre 2018
+
+* [listas.c](./2018-11-21_lista_notas/listas.c) ejemplo de listas (sin funciones): inserción ordenada y eliminación en cualquier posición.
+
 ## 19 Noviembre 2018
 
 * [exp.c](./2018-11-19_exponencial/exp.c) cálculo de función exponencial mediante funciones
