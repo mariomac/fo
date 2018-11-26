@@ -1,17 +1,4 @@
-#include <stdio.h>
-
-#define N 10
-
-double potencia(double a, int b);
-long factorial(int n);
-double exponencial(int x);
-
-main() {
-  int x;
-  printf("X? ");
-  scanf("%d", &x);
-  printf("e^x = %lf\n", exponencial(x));
-}
+#include "calculo.h"
 
 double exponencial(int x) {
   int i;
@@ -36,7 +23,8 @@ double potencia(double a, int b) {
   int i;
   double r = 1;
   for (i = 1 ; i <= b ; i++) {
-    r = r * a;
+    r = r * a;  
   }
   return r;
 }
+

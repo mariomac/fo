@@ -1,6 +1,12 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 26 Noviembre 2018
+
+* [Ejemplo de creación de librerías propias](./2018-11-26_ejemplo_librerias), dividiendo el código en diferentes archivos.
+
+* Ejemplo de paso de argumentos por referencia, ya sea de [tipos básicos](./2018-11-26_punteros/intercambia.c) o de [structs](./2018-11-26_punteros/ejemplo.c)
+
 ## 21 Noviembre 2018
 
 * [listas.c](./2018-11-21_lista_notas/listas.c) ejemplo de listas (sin funciones): inserción ordenada y eliminación en cualquier posición.
