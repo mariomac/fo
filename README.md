@@ -1,6 +1,14 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 28 Noviembre 2018
+
+* [Segunda parte de Pokemon](./2018-11-28_pokemon_2), en el que se incluye:
+    - División el proyecto en varios archivos: `mapa.c`, `mapa.h`, `teclas.c`, `teclas.h` y `pokemon.c`.
+    - Uso de punteros en la función `mueve`, usada para mover el personaje por el mapa.
+    - Uso de `teclas.c` y `teclas.h` para leer entrada del teclado.
+    - Para compilarlo todo: `gcc mapa.c pokemon.c teclas.c -o pokemon`
+
 ## 26 Noviembre 2018
 
 * [Ejemplo de creación de librerías propias](./2018-11-26_ejemplo_librerias), dividiendo el código en diferentes archivos.
