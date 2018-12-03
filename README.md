@@ -1,6 +1,12 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 3 Diciembre 2018
+
+* [Tercera parte de Pokemon](./2018-12-03_pokemon_3) (incompleta). Queda como ejercicio:
+    - Eliminar el pokemon de la bolsa en `sacar_pokemon`.
+    - Hacer una función que muestre por pantalla todos los pokemons de una bolsa.
+
 ## 28 Noviembre 2018
 
 * [Segunda parte de Pokemon](./2018-11-28_pokemon_2), en el que se incluye:
