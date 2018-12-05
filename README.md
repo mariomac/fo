@@ -1,6 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 5 Diciembre 2018
+
+* [Ejemplos de uso de punteros](./2018-12-05_punteros_ejemplos)
+
 ## 3 Diciembre 2018
 
 * [Tercera parte de Pokemon](./2018-12-03_pokemon_3) (incompleta). Queda como ejercicio:
