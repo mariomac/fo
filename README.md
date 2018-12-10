@@ -1,6 +1,10 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 10 Diciembre 2018
+
+* [Ejemplo de ficheros](./2018-12-10_ficheros) (lectura y escritura de datos en disco).
+
 ## 5 Diciembre 2018
 
 * [Ejemplos de uso de punteros](./2018-12-05_punteros_ejemplos)

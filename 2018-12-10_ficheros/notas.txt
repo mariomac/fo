@@ -1,0 +1,8 @@
+7
+Laia:9.000000
+Andreu:9.000000
+Miquel:7.500000
+Sara:7.000000
+Josep Maria:6.500000
+Maria:6.000000
+Joan Miquel:3.000000
