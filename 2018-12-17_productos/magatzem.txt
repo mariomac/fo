@@ -1,0 +1,6 @@
+5
+Aspirador:100.00:7
+Depiladora Manual:70.00:42
+iPod:250.00:6
+Play Station 4:350.00:60
+Xbox 360:400.00:50

@@ -1,6 +1,14 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 17 Diciembre 2018
+
+* [Base de datos de productos](./2018-12-17_productos), tocando estos temas:
+    - Carga/guardado en disco
+    - Inserción ordenada
+    - Cadenas (`string.h`)
+    - Funciones, structs y punteros
+
 ## 10 Diciembre 2018
 
 * [Ejemplo de ficheros](./2018-12-10_ficheros) (lectura y escritura de datos en disco).
