@@ -1,6 +1,13 @@
 # FO
 Ejemplos de clase de Fonaments d'Ordinadors
 
+## 19 Diciembre 2018
+
+* [Búsqueda en matriz](./2018-12-19_buscar_matriz), tocando temas:
+    - Búsqueda
+    - Matrices
+    - Funciones, structs y punteros
+
 ## 17 Diciembre 2018
 
 * [Base de datos de productos](./2018-12-17_productos), tocando estos temas:
